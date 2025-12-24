@@ -11,7 +11,7 @@ keywords = ["popcnt", "count_ones"]
 
 [dependencies]
 bytemuck = "1.15.0"
-pulp = { version = "0.18.9", default_features = false }
+pulp = { version = "0.22.2", default_features = false }
 
 [features]
 default = ["std"]
